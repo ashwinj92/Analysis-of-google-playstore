@@ -1,0 +1,296 @@
+0,Family Locator Inc.
+1,MapFactor
+2,DakikTech
+3,Yandex Apps
+4,Kema Studio
+5,Andreas Flosdorf
+6,Sentry Apps
+7,Psyberia
+8,WetterOnline GmbH
+9,Andev
+10,OsmAnd
+11,Smart Media4U Technology Pte.Ltd.
+12,ToptoshirouApp
+13,DET Games 2019
+14,wcr
+15,iJoysoft
+16,what3words
+17,AllTrails, LLC
+18,MAPS.ME (CYPRUS) LTD
+19,SquareGPS
+20,parizene
+21,Samsung Electronics Co.,  Ltd.
+22,family & Co
+23,TeamViewer
+24,YooMoney
+25,Glassdoor Inc.
+26,appfour
+27,Ankamap
+28,Mozilla
+29,DET Games 2019
+30,Dewmobile, Inc.
+31,appfour
+32,MAPS.ME (CYPRUS) LTD
+33,Simple Design Ltd.
+34,Craigpark Limited
+35,BinaryEarth
+36,Netlinkd
+37,FlashLight
+38,Upper Route Planner - Easy Deliveries Planning
+39,BasicAirData
+40,CamSoft Information
+41,AppStar Studios
+42,Qustodio LLC
+43,kaiSquare
+44,Drivewyze Inc.
+45,Pedal Rhythm
+46,appfour
+47,Map Zone Studio
+48,Trucker Path
+49,Alfred Systems Inc.
+50,DGZone Technology
+51,Yandex Apps
+52,Navmii
+53,Adobe
+54,WhatsApp LLC
+55,Navmii
+56,Google LLC
+57,Evgen Bodunov
+58,Signal Lab
+59,ELECTRONIC ARTS
+60,Outdooractive AG
+61,Francesco Re
+62,Shanghai WanWay Tech Co.,Ltd
+63,MAPS.ME (CYPRUS) LTD
+64,Chartcross Limited
+65,Brave Software
+66,mictale.com
+67,Video Downloader - Download Videos - Video Player
+68,Waze
+69,Memory-Map, Inc.
+70,Samsung Electronics Co.,  Ltd.
+71,ÐÐ²ÑÐ¾Ð¢ÑÐ°Ð½ÑÐÐ½ÑÐ¾
+72,CityMaps2Go
+73,funrealitysoftware
+74,Microsoft Corporation
+75,Odnoklassniki Ltd
+76,Multi Tech Apps
+77,Sygic.
+78,Square, Inc.
+79,Weather Forecast & Widget & Radar
+80,Playrix
+81,Paysafe
+82,HERE Apps LLC
+83,Mason Blackwood
+84,DET Games 2019
+85,digrasoft UG (haftungsbeschrÃ¤nkt)
+86,Bikemap GmbH
+87,Microsoft Corporation
+88,DET Games 2019
+89,Opera
+90,Mystic Mobile Apps GPS Tools
+91,DET Games 2019
+92,Uber Technologies, Inc.
+93,Vivo Communication Technology Co. Ltd
+94,Life360
+95,Dropbox, Inc.
+96,VirtualMaze
+97,Droid-Developer
+98,IGG.COM
+99,Global Apps Inc - Live Satellite View Earth Map
+100,Makeev Apps
+101,Trusted Tools & Utilities Apps
+102,My.com B.V.
+103,EBSA Tech
+104,Moon Active
+105,Hago Games
+106,NNG Software Developing and Commercial LLC.
+107,Zayzik : LED Keyboard Studio
+108,Blix Inc.
+109,Huawei Internet Services
+110,Udemy
+111,Weather Forecast & Live Weather & Radar & Widgets
+112,BGNmobi
+113,NKSoft
+114,Sharp Apps Studio
+115,Kopilot - Harti Camioane - Truck Navigation
+116,Cards
+117,Smart Media4U Technology Pte.Ltd.
+118,Y2 Tech
+119,Spotify AB
+120,MAPS.ME (CYPRUS) LTD
+121,MAPS.ME (CYPRUS) LTD
+122,Android Apps & Tools
+123,Ivy
+124,Outfit7 Limited
+125,Yandex Apps
+126,TrustedApp
+127,Tools & Utilities Apps
+128,BASF Digital Farming GmbH
+129,Yandex Apps
+130,Smartwatch Studios
+131,King
+132,Google LLC
+133,AnyDesk Software GmbH
+134,SimÃ£o LÃºcio
+135,EXA Tools
+136,MAPS.ME (CYPRUS) LTD
+137,Dreams Room
+138,DuckDuckGo
+139,FLYTOMAP INC
+140,WONDERSHARE TECHNOLOGY CO., LIMITED
+141,AppStar Studios
+142,DET Games 2019
+143,Xiaomi Inc.
+144,Have a nice day
+145,Revolut Ltd
+146,SimÃ£o LÃºcio
+147,TomTom International BV
+148,BetterLife Technology
+149,quality apps (recorder, weather, music)
+150,appfour
+151,Perfectly Tool Apps Lab
+152,FlixMobility GmbH
+153,expressPay Ghana Limited
+154,Lexa
+155,D.D.M.
+156,Samsung Electronics Co.,  Ltd.
+157,Ratech
+158,DET Games 2019
+159,M.I.R.
+160,Gameloft SE
+161,TrailBehind Inc.
+162,Hubpay
+163,Road Hunter team
+164,UCWeb Singapore Pte. Ltd.
+165,Kawe Apps
+166,Financept
+167,ZoeMob
+168,Polarsteps
+169,DET Games 2019
+170,MAPS.ME (CYPRUS) LTD
+171,Yandex Apps
+172,Strava Inc.
+173,MobiSystems
+174,Routin Inc
+175,HERE Apps LLC
+176,Tinus Apps
+177,Map Zone Studio
+178,Degoo Backup AB - Cloud
+179,MAPS.ME (CYPRUS) LTD
+180,Uber Technologies, Inc.
+181,Microsoft Corporation
+182,Moovit
+183,MAPS.ME (CYPRUS) LTD
+184,OsmAnd
+185,MAPS.ME (CYPRUS) LTD
+186,Facebook
+187,Seznam.cz, a.s.
+188,Truecaller
+189,Instagram
+190,SuperSoftTech
+191,barbeauDev
+192,Globally Live Satellite View Map
+193,Yevgeniy Tyumen
+194,Apalon Apps
+195,King
+196,Solo Tech Apps
+197,SimÃ£o LÃºcio
+198,Supercell
+199,CloudMosa Inc
+200,Wikiloc Outdoor
+201,TomTom International BV
+202,GOOD/APP
+203,Mapway
+204,Simple Design Ltd.
+205,Flipboard
+206,Coocent
+207,Locategy SL
+208,RosTeam
+209,MAPS.ME (CYPRUS) LTD
+210,Facebook
+211,ATLOGIS Geoinformatics GmbH & Co. KG
+212,IME Digital Solution Limited
+213,Everyday Calculation Apps
+214,AVNSoftware Inc.
+215,MAPS.ME (CYPRUS) LTD
+216,MacroPinch
+217,T-Mobile USA
+218,Zeo Route Planner
+219,calimoto GmbH
+220,Regrid
+221,Go Travel Un Limited
+222,Microsoft Corporation
+223,MAPS.ME (CYPRUS) LTD
+224,R. Apps
+225,M.I.R.
+226,Mapbox
+227,Roblox Corporation
+228,Calmatics
+229,FAMILY LOCATOR LLC
+230,Yandex Apps
+231,Glympse, Inc
+232,Simple Design Ltd.
+233,Microsoft Corporation
+234,Digitalchemy, LLC
+235,Disciple Skies Software
+236,Amobear Studio
+237,MAPS.ME (CYPRUS) LTD
+238,MAPS.ME (CYPRUS) LTD
+239,CallApp Caller ID, Call Recorder & Spam Blocker
+240,Offline travel maps & routes
+241,One Software App
+242,Garena International I
+243,Sharp Apps Studio
+244,DoubleGIS, LLC
+245,PASCO scientific
+246,Wish Inc.
+247,Microsoft Corporation
+248,Sygic.
+249,Yandex Apps
+250,Edison Software
+251,MAPS.ME (CYPRUS) LTD
+252,SocialChain
+253,j4velin
+254,Google LLC
+255,Trimble MAPS Ltd.
+256,Aleksei Mezhevikin
+257,Miniclip.com
+258,Softwel
+259,HERE Apps LLC
+260,Delta Raza Studio
+261,Microsoft Corporation
+262,Supercell
+263,Skype
+264,Microsoft Corporation
+265,HP Inc.
+266,ATLOGIS Geoinformatics GmbH & Co. KG
+267,Opera
+268,Microsoft Corporation
+269,Indeed Jobs
+270,DET Games 2019
+271,Driversnote Mileage Tracker
+272,Yandex Apps
+273,Facebook
+274,Leap Fitness Group
+275,Attractive Apps Valley
+276,Leap Fitness Group
+277,MAPS.ME (CYPRUS) LTD
+278,Microsoft Corporation
+279,BGNmobi
+280,Karta Software Technologies - GPS Navigation
+281,MAPS.ME (CYPRUS) LTD
+282,Disciple Skies Software
+283,weberdo
+284,Leopard V7
+285,Corcanoe
+286,Wise, formerly TransferWise
+287,Mega Ltd
+288,Samsung Electronics Co.,  Ltd.
+289,ÐÐÐ "ÐÐ°Ð¿Ð¸ÑÐ°Ð»Ð±Ð°Ð½Ðº"
+290,Mireo d.d.
+291,Delivery Route Optimization Experts
+292,DET Games 2019
+293,UCWeb Singapore Pte. Ltd.
+294,KX Camera Team
+295,WorldRemit

@@ -1,0 +1,260 @@
+1638928092432	geckodriver	INFO	Listening on 127.0.0.1:64605
+1638928095516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-devtools" "--remote-debugging-port" "64606" "-no-remote" "-profile" "C:\\Users\\ashwi\\AppData\\Local\\Temp\\rust_mozprofileUy7zMS"
+*** You are running in headless mode.
+1638928095768	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ashwi\\AppData\\Local\\Temp\\rust_mozprofileUy7zMS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64606/devtools/browser/06c9d3e0-1aaa-4278-a236-f34aa2a962cd
+1638928096870	Marionette	INFO	Listening on port 64611
+1638928097082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638928101727	Marionette	INFO	Stopped listening on port 64611
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638928102396	geckodriver	INFO	Listening on 127.0.0.1:64683
+1638928105476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-devtools" "--remote-debugging-port" "64684" "-no-remote" "-profile" "C:\\Users\\ashwi\\AppData\\Local\\Temp\\rust_mozprofileiVLjWg"
+*** You are running in headless mode.
+1638928105689	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ashwi\\AppData\\Local\\Temp\\rust_mozprofileiVLjWg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64684/devtools/browser/84cd86e4-ce09-4579-8517-0d429da8d535
+1638928106826	Marionette	INFO	Listening on port 64689
+1638928107032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638928117197	Marionette	INFO	Stopped listening on port 64689
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638928119819	geckodriver	INFO	Listening on 127.0.0.1:64820
+1638928122890	mozrunner::runner	INFO	Running command: "C:\\P1638928123065	mozrunner::runner	INFO	Running command: "C:\\P1638928123170	mozrunner::runner	INFO	Running command: "C:\\P1638928123233	mozrunner::runner	INFO	Running command: "C:\\P1638928123312	mozrunner::runner	INFO	Running command: "C:\\P1638928123907	mozrunner::runner	INFO	Running command: "C:\\P1638928123964	mozrunner::runner	INFO	Running command: "C:\\P1638928123994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marione[GFX1-]: Rendconsole.warn: SearchSettings: "get: No settings[GFX1-]: R1638928124472	Marionette	INFO	Marionette DevTools [GFX1-]: RenderCompositorSWGL failed mapping defaulDevTools listening on ws://localhost:64831/devtools/browser/DevTools listening on ws://localhost:64838/devtools/browser/DevTools listening on ws://localh1638928126256	RemoteAgent	WD1638928133983	Marionette	INFO	Stopped listening on port 6489163
+###!!! [Parent][RunMessage] Error: Channel closing: too1638928141344	Marionette	INFO	Stopped listening on port 64904
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: 
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390141638928142386	Marionette	INFO	Stopped listening on port 64940
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannoconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ashwi\\AppData\\Local\\Temp\\rust_mozprofileFxMthq\\search.json.mozlz4", (void 0)))DevTools listening on ws://localhost:49173/devtools/browser/3cded435-63c0-4938-bb5f-4e7114141517
+1638928143903	Marionett1638928152393	Marionette	INFO	Stopped listening on port 49181638928154268	Marionette	INFO	Stopped listening on port 4918163
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, message1638928159042	Marionette	INFO	Stopped listening on port 49340
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channe1638928159391	Marionette	INFO	Stopped listening on port 49734
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1638928160586	mozrunner::runner	INFO	Running command: "C:\\P1638928160774	mozrunner::runner	INFO	Running command: "C:\\P1638928161759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-devtools" "--remote-debugging-port" "50134" "-no-remote" "-profile" "C:\\Users\\ashwi\\AppData\\Local\\Temp\\rust_mozprofilecdWBsx"
+*** You are running in headless mode.
+1638928162097	Marionette	INFO	Marionette enabled
+[GFX1-]: Rend1638928162908	mozrunner::runner	INFO	Running command: "C:\\P1638928163298	mozrunner::runner	INFO	Running command: "C:\\P1638928163330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firef1638928168455	Marionette	INFO	Stopped listening on port 50142
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+6d
+1638928163879	Marionett1638928176255	Marionette	INFO	Stopped listening on port 50171638928177588	Marionette	INFO	Stopped listening on port 50189
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_Destro1638928179043	Marionette	INFO	Stopped listening on port 50292
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390141638928182969	Marionette	INFO	Stopped listening on port 50335
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+-marionette" "-headless" "-devtools" "--remote-debugging-port" "50799" "-no-remote" "-profile" "C:\\Users\\ashwi\\AppData\\Local\\Temp\\rust_mozprofilepSUBPM"
+*** You are running in DevTools listening on ws://localhost:50749/devtools/browser/4c9220[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could n1638928188359	Marionette	INFO	Stopped listening on port 50806
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Pare1638928194500	Marionette	INFO	Stopped listening on port 50871
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+JavaScript error: , line 0: uncaught exception: Timeout
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-defaultconsole.log: WebExtensions: reset-default-searcJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\ashwi\AppData\Local\TemJavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\ashwi\AppData\Local\Temp\rust_mozprofileZKttkb\bookmarkbackups\bookmarks-2021-12-10_11_XYV40O79ZmylF125HDCxRg==.jsonlz4) because it does not exist
+d not move source file(C:\Users\ashwi\AppData\Local\Temp\rust_mozprofile1EgsBj\bookmarkbackups\bookmarks-2021-12-10_11_-JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\ashwi\AppData\Local\Temp\rust_mozprofileaZ5Ook\bookmarkbackups\bookmarks-2021-12-10_11_rppjfPgMYezsOdxhAm72XQ==.jsonlz4) because it does not exist
+/55d02c42-5f58-435c-b6dd-b815bf05f80e
+1638928195528	Marionette	INFO	Listening on port 51402
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\ashwi\AppData\Local\Temp\rust_mozprofileN3yiKk\bookmarkbackups\bookmarks-2021-12-09_11_VZUpcXcopejblIlsw9m5Qg==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ashwi\\AppData\\Local\\Temp\\rust_mozprofileJN0Jun\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64362/devtools/browser/aee57f07-15e0-4138-b9ff-dd7dd5c45577
+1638931473675	Marionette	INFO	Listening on port 64369
+1638931473837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638931484164	Marionette	INFO	Stopped listening on port 64369
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638931485497	geckodriver	INFO	Listening on 127.0.0.1:64537
+1638931488648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-devtools" "--remote-debugging-port" "64538" "-no-remote" "-profile" "C:\\Users\\ashwi\\AppData\\Local\\Temp\\rust_mozprofileUUaOW6"
+*** You are running in headless mode.
+1638931489064	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ashwi\\AppData\\Local\\Temp\\rust_mozprofileUUaOW6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64538/devtools/browser/32166ad8-d173-4fa2-8f14-f1f1dfe29b6a
+1638931490833	Marionette	INFO	Listening on port 64548
+1638931491353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638931496405	Marionette	INFO	Stopped listening on port 64548
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638992145167	geckodriver	INFO	Listening on 127.0.0.1:55136
+1638992148288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-devtools" "--remote-debugging-port" "55137" "-no-remote" "-profile" "C:\\Users\\ashwi\\AppData\\Local\\Temp\\rust_mozprofile1VhNat"
+*** You are running in headless mode.
+1638992148717	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ashwi\\AppData\\Local\\Temp\\rust_mozprofile1VhNat\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55137/devtools/browser/c9bb3910-d4ec-4f98-a9a1-5ec2f07437c3
+1638992150671	Marionette	INFO	Listening on port 55144
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\ashwi\AppData\Local\Temp\rust_mozprofile1VhNat\bookmarkbackups\bookmarks-2021-12-10_11_U6aXaxMi+ZYKruQEFjFXog==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
